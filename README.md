@@ -1,6 +1,7 @@
 # Personal Portfolio
 
 This is my personal portfolio project, showcasing my skills, projects, and background as a web developer. It was built as the final project for the Codedex CSS course.
+It is still on developement and not yet mobile-friendly!!
 
 ## 🖥️ Preview
 ![Portfolio Screenshot](./page-screenshot2.png)
