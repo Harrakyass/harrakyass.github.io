@@ -1,3 +1,19 @@
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  .projects {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  nav ul {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
 /* General Styles */
 body, header {
     background-color: #2F4156;
